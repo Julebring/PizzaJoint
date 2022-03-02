@@ -10,7 +10,7 @@ const Home = () => {
       transition={{ delay: 1, duration: 1.5 }}
     >
       <motion.h2>
-        Welcome to Pizza Joint. test XX
+        Welcome to Pizza Joint.
       </motion.h2>
       <Link to="/base">
         <motion.button
